@@ -8,7 +8,7 @@ DATA SET-UP
 
 CORRELATIONS TO VOLUME
 ------------------------
-- drop_volume - script to drop radiomic features highly correlated to volume
+- drop_volume.py - script to drop radiomic features highly correlated to volume
 
 csv files showing all features and their correlation to original_shape_MeshVolume
 
